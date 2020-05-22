@@ -1,0 +1,25 @@
+{
+  "model": {
+    "attributes": {
+      "userFields": [
+        "id",
+        "email",
+        "cover",
+        "avatar",
+        "firstName",
+        "lastName",
+        "createdAt",
+        "updatedAt"
+      ],
+      "locationFields": [
+        "id",
+        "city",
+        "country",
+        "latitude",
+        "longitude",
+        "createdAt",
+        "updatedAt"
+      ]
+    }
+  }
+}
